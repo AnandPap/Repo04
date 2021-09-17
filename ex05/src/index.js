@@ -1,6 +1,6 @@
 function main(numOne, numTwo){
     // only change code below this line
-    var numOne, numTwo, product;
+    var product;
     product = numOne * numTwo;
     // only change code above this line
     return product;
